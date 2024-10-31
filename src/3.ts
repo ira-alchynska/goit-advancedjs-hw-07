@@ -47,4 +47,4 @@ wizard.introduce("I am the mighty wizard");
 wizard.castSpell();
 wizard.levelUp();
 
-export {};
+
